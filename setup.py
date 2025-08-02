@@ -13,7 +13,7 @@ if __name__ == "__main__":
         name="HiSTaR",
         version="1.0.0",
         description="HiSTaR: identifying spatial domains with Hierarchical Spatial Transcriptomics variational autoencoder",
-        url="https://github.com/Anglejuebi/HDVAE",
+        url="https://github.com/Anglejuebi/HiSTaR",
         author="JunHua Yu",
         author_email="Angle_Yu@e.gzhu.edu.cn",
         license="MIT",
