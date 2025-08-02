@@ -4,7 +4,7 @@
 ![img.png](img.png)
 we propose a Hierarchical ST variational autoencoder (HiSTaR) to extract multi-level latent features of spots. HiSTaR tends to perform well in identifying spatial domains across multiple datasets from diverse platforms, consistently showing superior results compared to existing methods.
 ## Starting
-Please check the tutorial [Tutorials of HiSTaR](https://hdvae-tutorials.readthedocs.io/en/latest/index.html)
+Please check the tutorial [Tutorials of HiSTaR](https://histar-tutorials.readthedocs.io/en/latest/index.html)
 
 1.Python
 
@@ -68,3 +68,4 @@ Tools that are compared include:
 
 ## Contact
 If you encounter any problems, Please feel free contact me <a href="Angle_Yu@e.gzhu.edu.cn" title="Email">Angle_Yu@e.gzhu.edu.cn</a><br>
+
