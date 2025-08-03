@@ -23,7 +23,7 @@ Please check the tutorial [Tutorials of HiSTaR](https://histar-tutorials.readthe
     python setup.py install
 
 ## DataSets
-**The complete experimental dataset of HiSTaR is available [here](https://zenodo.org/records/15599070)**<br>
+**The complete experimental dataset of HiSTaR is available [here]([![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15599070.svg)](https://doi.org/10.5281/zenodo.15599070))**<br>
 The raw Human DLPFC data can be downloaded [here](http://spatial.libd.org/spatialLIBD/)<br>
 The raw breast cancer data can be downloaded [here](https://www.10xgenomics.com/datasets/human-breast-cancer-block-a-section-1-1-standard-1-1-0;)<br>
 The raw Mouse Brain data can be downloaded [here](https://www.10xgenomics.com/datasets/mouse-kidney-section-coronal-1-standard-1-1-0) <br>
@@ -68,4 +68,5 @@ Tools that are compared include:
 
 ## Contact
 If you encounter any problems, Please feel free contact me <a href="Angle_Yu@e.gzhu.edu.cn" title="Email">Angle_Yu@e.gzhu.edu.cn</a><br>
+
 
