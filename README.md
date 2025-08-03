@@ -23,7 +23,7 @@ Please check the tutorial [Tutorials of HiSTaR](https://histar-tutorials.readthe
     python setup.py install
 
 ## DataSets
-**The complete experimental dataset of HiSTaR is available [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15599070.svg)](https://doi.org/10.5281/zenodo.15599070) <br>
+**The complete experimental dataset of HiSTaR is available [here](https://zenodo.org/records/15599070)** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15599070.svg)](https://doi.org/10.5281/zenodo.15599070) <br>
 The raw Human DLPFC data can be downloaded [here](http://spatial.libd.org/spatialLIBD/)<br>
 The raw breast cancer data can be downloaded [here](https://www.10xgenomics.com/datasets/human-breast-cancer-block-a-section-1-1-standard-1-1-0;)<br>
 The raw Mouse Brain data can be downloaded [here](https://www.10xgenomics.com/datasets/mouse-kidney-section-coronal-1-standard-1-1-0) <br>
@@ -55,7 +55,7 @@ thanks for the data from [SEDR_analyses](https://github.com/JinmiaoChenLab/SEDR_
     ├── README.md
     ├── LICENSE
     └── setup.py
-**The complete experimental dataset of HiSTaR is available [here](https://zenodo.org/records/15599070)**
+**The complete experimental dataset of HiSTaR is available [here](https://zenodo.org/records/15599070)** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15599070.svg)](https://doi.org/10.5281/zenodo.15599070) <br>
 
 
 ## Compared tools
